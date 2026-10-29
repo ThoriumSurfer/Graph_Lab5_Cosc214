@@ -4,6 +4,9 @@ package org.example;
 
 So this program creates agraph and prints when each edge are connected and/or adjacent
 to each other or not.
+
+https://github.com/ThoriumSurfer/Graph_Lab5_Cosc214.git
+https://github.com/ThoriumSurfer/Graph_Lab5_Cosc214/tree/master/src/main/java/org/example
  */
 
 public class Main {
